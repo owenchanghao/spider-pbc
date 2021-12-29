@@ -1,2 +1,2 @@
-# spider-pbc
-A Python-based web scraping script for People's Bank of China (PBC).
+# A Python-based web scraping script for information from People's Bank of China (PBC).
+
